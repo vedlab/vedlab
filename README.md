@@ -4,7 +4,7 @@
 
 <!-- Profile view count -->
 <!-- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ved-PRAKA5H" alt="icon" width="100" height="20" />
+  <img src="https://komarev.com/ghpvc/?username=vedlab" alt="icon" width="100" height="20" />
 </div> -->
 
 <div align="center">
@@ -178,8 +178,8 @@
 ## GitHub Stats 📊
 
 <p align="center">
-<img align="left" width="40%" height="200px" src="https://readme-stats-github.pages.dev/api/top-langs?username=ved-praka5h" alt="VED-PRAKA5H" />
-<img align="right" width="55%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=ved-praka5h&background=1a1b3d&border=2d3561&stroke=8b5cf6&ring=8b5cf6&fire=f97316&currStreakNum=f97316&sideNums=f97316&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=cbd5e1" alt="VED-PRAKA5H" />
+<img align="left" width="40%" height="200px" src="https://readme-stats-github.pages.dev/api/top-langs?username=vedlab" alt="vedlab" />
+<img align="right" width="55%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=vedlab&background=1a1b3d&border=2d3561&stroke=8b5cf6&ring=8b5cf6&fire=f97316&currStreakNum=f97316&sideNums=f97316&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=cbd5e1" alt="vedlab" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0172.gif" height="2" width="100%">
